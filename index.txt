@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Noorulheda Resume</h1>
+<h2>About me</h2>
+<h3>Name</h3>
+<p>Noorulheda</p>
+<h4>Age</h4>
+<p>18</p>
+<h5>Country</h5>
+<p>Afghanistan</p>
+<h6>Religion</h6>
+<p>Islam</p>
+</body>
+</html>
